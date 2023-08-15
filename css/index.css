@@ -8,14 +8,16 @@
 :root {
   --color-primary: #ffe53bd8;
   --color-secondary: #ff2525da;
+  --color-tertiary: #747474;
+  --color-quaternary: #000000;
 }
 
 body {
   height: 100vh;
   background: linear-gradient(
     120deg,
-    var(--color-primary),
-    var(--color-secondary)
+    var(--color-tertiary),
+    var(--color-quaternary)
   );
   display: flex;
   align-items: center;
@@ -30,7 +32,7 @@ body {
   width: 550px;
   background: transparent;
   border-radius: 3px;
-  box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
 }
 
 .relogio div {
