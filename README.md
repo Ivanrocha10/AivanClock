@@ -1,6 +1,6 @@
 # AivanClock
 
-O projeto AivanClock....
+O projeto AivanClock teve seu início com a colaboração da Larissa Kich, que mantém um canal no YouTube dedicado a demonstrar e ensinar a criação de várias aplicações usando "codiguin". O principal objetivo deste projeto é exibir as horas e demonstrar habilidades em JavaScript, conforme demonstrado no vídeo. Para isso, foram utilizadas tecnologias como HTML, CSS e JavaScript, com a utilização de responsividade para dispositivos portáteis.
 
 ## Demonstração
 
